@@ -1,0 +1,5 @@
+# Logs (covers data/logs, root logs/, etc.)
+logs/
+
+# Python
+__pycache__/
